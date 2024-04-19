@@ -1,0 +1,10 @@
+[package]
+name = "hyphenator"
+version = "0.1.0"
+authors = ["d3z <d3z-the-dev@hotmail.com>"]
+edition = "2021"
+description = "Simple library for segmenting words into syllables"
+repository = "https://github.com/d3z-the-dev/hyphenator"
+license = "Apache-2.0"
+
+[dependencies]
